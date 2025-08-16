@@ -1,7 +1,5 @@
 # Credit Card Users Churn Prediction (AIML)
 
----
-
 ## Overview
 This project predicts customer churn for credit card users using machine learning. The goal is to identify customers likely to close their accounts, enabling proactive retention strategies. The analysis leverages the BankChurners dataset, applying supervised learning models to classify churned vs. retained customers.
 
